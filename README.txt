@@ -1,1 +1,1 @@
-Purpose of the project is to develop an algorithm in Matlab code to obtain tomographic image reconstruction from projections.
+Purpose of this project is to develop an algorithm in Matlab to obtain tomographic image reconstruction from projections.
