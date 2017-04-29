@@ -2,7 +2,7 @@
 %  Project       : Parallel-beam tomographic image reconstruction algorithm                    %
 %  File          : Image_Reconstruction_Algorithm.m                                            %
 %  Description   : Image reconstruction using different type of filters for Backprojection     %
-%  Author        : Monahopoulos Konstantinos                                                   %
+%  Author        : Monachopoulos Konstantinos                                                   %
 %----------------------------------------------------------------------------------------------%
 
 clc;close all; clear all 
